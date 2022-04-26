@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Programation (desktop or web)
 - 🌱 I’m currently learning ...Informatics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@ailio_aragao (instagram)
+- 📫 How to reach me ...@abilio_aragao (instagram)
 - 
 
 <!---
